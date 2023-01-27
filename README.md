@@ -1,2 +1,13 @@
-# YAZILIM-GENEL-NOTLAR
-Yazılım ile alakalı genel notlarım.
+# Yazılım Notları
+
+## 🛈 Lejant
+
+-   🛈 => Bilgilendirme
+-   📝 => Not
+-   🗜️ => Konfigürasyon
+
+## 🛈 İçindekiler
+
+-   🛈[Repo Lisansı](./LICENSE);
+-   📝[Redis Notları](./notlar/REDIS.md);
+-   🗜️[.prettierrc](./konfig%C3%BCrasyon/.prettierrc);
